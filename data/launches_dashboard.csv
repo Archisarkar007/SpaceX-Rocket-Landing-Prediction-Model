@@ -1,0 +1,57 @@
+Flight Number,Date,Launch Site,Landing Success,Outcome Label,Payload Mass (kg),Booster Version,Booster Version Category,Orbit,Customer,Launch outcome,Booster landing
+1,2010-06-04,CCAFS LC-40,0,Failure,0.0,F9 v1.0  B0003,v1.0,LEO,SpaceX,Success,Failure
+2,2010-12-08,CCAFS LC-40,0,Failure,0.0,F9 v1.0  B0004,v1.0,LEO,NASA,Success,Failure
+3,2012-05-22,CCAFS LC-40,0,Failure,525.0,F9 v1.0  B0005,v1.0,LEO,NASA,Success,No
+4,2012-10-08,CCAFS LC-40,0,Failure,500.0,F9 v1.0  B0006,v1.0,LEO,NASA,Success,No attempt
+5,2013-03-01,CCAFS LC-40,0,Failure,677.0,F9 v1.0  B0007,v1.0,LEO,NASA,Success,No
+7,2013-12-03,CCAFS LC-40,0,Failure,3170.0,F9 v1.1,v1.1,GTO,SES,Success,No
+8,2014-01-06,CCAFS LC-40,0,Failure,3325.0,F9 v1.1,v1.1,GTO,Thaicom,Success,No
+9,2014-04-18,CCAFS LC-40,0,Failure,2296.0,F9 v1.1,v1.1,LEO,NASA,Success,Controlled
+10,2014-07-14,CCAFS LC-40,0,Failure,1316.0,F9 v1.1,v1.1,LEO,Orbcomm,Success,Controlled
+11,2014-08-05,CCAFS LC-40,0,Failure,4535.0,F9 v1.1,v1.1,GTO,AsiaSat,Success,No
+12,2014-09-07,CCAFS LC-40,0,Failure,4428.0,F9 v1.1 B1011,v1.1,GTO,AsiaSat,Success,No
+13,2014-09-21,CCAFS LC-40,0,Failure,2216.0,F9 v1.1 B1010,v1.1,LEO,NASA,Success,Uncontrolled
+14,2015-01-10,CCAFS LC-40,0,Failure,2395.0,F9 v1.1 B1012,v1.1,LEO,NASA,Success,Failure 
+15,2015-02-11,CCAFS LC-40,0,Failure,570.0,F9 v1.1 B1013,v1.1,HEO,USAF,Success,Controlled
+16,2015-03-02,CCAFS LC-40,0,Failure,4159.0,F9 v1.1 B1014,v1.1,GTO,ABS,Success,No
+17,2015-04-14,CCAFS LC-40,0,Failure,1898.0,F9 v1.1 B1015,v1.1,LEO,NASA,Success,Failure
+18,2015-04-27,CCAFS LC-40,0,Failure,4707.0,F9 v1.1 B1016,v1.1,GTO,,Success,No
+19,2015-06-28,CCAFS LC-40,1,Success,1952.0,F9 v1.1 B1018,v1.1,LEO,NASA,Failure,Precluded
+20,2015-12-22,CCAFS LC-40,1,Success,2034.0,F9 FT B1019,FT,LEO,Orbcomm,Success,Success
+22,2016-03-04,CCAFS LC-40,0,Failure,5271.0,F9 FT B1020,FT,GTO,SES,Success,Failure
+23,2016-04-08,CCAFS LC-40,1,Success,3136.0,F9 FT B1021.1,FT,LEO,NASA,Success,Success
+24,2016-05-06,CCAFS LC-40,1,Success,4696.0,F9 FT B1022,FT,GTO,SKY Perfect JSAT Group,Success,Success
+25,2016-05-27,CCAFS LC-40,1,Success,3100.0,F9 FT B1023.1,FT,GTO,Thaicom,Success,Success
+26,2016-06-15,CCAFS LC-40,0,Failure,3600.0,F9 FT B1024,FT,GTO,ABS,Success,Failure
+27,2016-07-18,CCAFS LC-40,1,Success,2257.0,F9 FT B1025.1,FT,LEO,NASA,Success,Success
+28,2016-08-14,CCAFS LC-40,1,Success,4600.0,F9 FT B1026,FT,GTO,SKY Perfect JSAT Group,Success,Success
+6,2013-09-29,VAFB SLC-4E,0,Failure,500.0,F9 v1.1  B1003,v1.1,Polar orbit,MDA,Success,Uncontrolled
+21,2016-01-17,VAFB SLC-4E,0,Failure,553.0,F9 v1.1 B1017,v1.1,LEO,NASA,Success,Failure
+29,2017-01-14,VAFB SLC-4E,1,Success,9600.0,F9 FT B1029.1,FT,Polar,Iridium Communications,Success,Success
+37,2017-06-25,VAFB SLC-4E,1,Success,9600.0,F9 FT B1036.1,FT,LEO,Iridium Communications,Success,Success
+40,2017-08-24,VAFB SLC-4E,1,Success,475.0,F9 FT B1038.1,FT,SSO,NSPO,Success,Success
+42,2017-10-09,VAFB SLC-4E,1,Success,9600.0,F9 B4 B1041.1,B4,Polar,Iridium Communications,Success,Success
+46,2017-12-23,VAFB SLC-4E,0,Failure,9600.0,F9 FT  B1036.2,FT,Polar,Iridium Communications,Success,Controlled
+49,2018-02-22,VAFB SLC-4E,0,Failure,2150.0,F9 FT  B1038.2,FT,SSO,Hisdesat,Success,No
+51,2018-03-30,VAFB SLC-4E,0,Failure,9600.0,F9 B4  B1041.2,B4,Polar,Iridium Communications,Success,No attempt
+55,2018-05-22,VAFB SLC-4E,0,Failure,6460.0,F9 B4  B1043.2,B4,Polar,Iridium Communications,Success,No
+30,2017-02-19,KSC LC-39A,1,Success,2490.0,F9 FT B1031.1,FT,LEO,NASA,Success,Success
+31,2017-03-16,KSC LC-39A,0,Failure,5600.0,F9 FT B1030,FT,GTO,EchoStar,Success,No
+32,2017-03-30,KSC LC-39A,1,Success,5300.0,F9 FT  B1021.2,FT,GTO,SES,Success,Success
+33,2017-05-01,KSC LC-39A,1,Success,3696.65,F9 FT B1032.1,FT,LEO,NRO,Success,Success
+34,2017-05-15,KSC LC-39A,0,Failure,6070.0,F9 FT B1034,FT,GTO,Inmarsat,Success,No
+35,2017-06-03,KSC LC-39A,1,Success,2708.0,F9 FT B1035.1,FT,LEO,NASA,Success,Success
+36,2017-06-23,KSC LC-39A,1,Success,3669.0,F9 FT  B1029.2,FT,GTO,Bulsatcom,Success,Success
+38,2017-07-05,KSC LC-39A,0,Failure,6761.0,F9 FT B1037,FT,GTO,Intelsat,Success,No
+39,2017-08-14,KSC LC-39A,1,Success,3310.0,F9 B4 B1039.1,B4,LEO,NASA,Success,Success
+41,2017-09-07,KSC LC-39A,1,Success,4990.0,F9 B4 B1040.1,B4,LEO,USAF,Success,Success
+43,2017-10-11,KSC LC-39A,1,Success,5200.0,F9 FT  B1031.2,FT,GTO,SES S.A.,Success,Success
+44,2017-10-30,KSC LC-39A,1,Success,3500.0,F9 B4 B1042.1,B4,GTO,KT Corporation,Success,Success
+54,2018-05-11,KSC LC-39A,1,Success,3600.0,F9 B5  B1046.1,B5,GTO,Thales-Alenia,Success,Success
+45,2017-12-15,CCAFS SLC-40,1,Success,2205.0,F9 FT  B1035.2,FT,LEO,NASA,Success,Success
+47,2018-01-08,CCAFS SLC-40,1,Success,3696.65,F9 B4 B1043.1,B4,LEO,Northrop Grumman,Success,Success
+48,2018-01-31,CCAFS SLC-40,0,Failure,4230.0,F9 FT  B1032.2,FT,GTO,SES,Success,Controlled
+50,2018-03-06,CCAFS SLC-40,0,Failure,6092.0,F9 B4 B1044,B4,GTO,Hispasat,Success,No attempt
+52,2018-04-02,CCAFS SLC-40,0,Failure,2647.0,F9 B4  B1039.2,B4,LEO,NASA,Success,No
+53,2018-04-18,CCAFS SLC-40,1,Success,362.0,F9 B4 B1045.1,B4,HEO,NASA,Success,Success
+56,2018-06-04,CCAFS SLC-40,0,Failure,5384.0,F9 B4  B1040.2,B4,GTO,SES,Success,No
